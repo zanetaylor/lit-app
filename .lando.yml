@@ -1,0 +1,4 @@
+name: lit
+recipe: laravel
+config:
+  webroot: public
